@@ -73,7 +73,7 @@ Future<void> share() async {
               Text('Radio Verde Vale', style: TextStyle(color: Colors.white),),
               Text('Criado pela Organize Websites!', style: TextStyle(color: Colors.white),),
               Text(' ', style: TextStyle(color: Colors.white),),
-              Text('Versão 1.2.0', style: TextStyle(color: Colors.white),),
+              Text('Versão 2.0.1', style: TextStyle(color: Colors.white),),
             ],
           ),
         ),
