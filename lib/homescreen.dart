@@ -123,7 +123,7 @@ class _HomePageState extends State<HomePage> {
     await FlutterShare.share(
         title: 'Compartilhar App',
         text: 'Conheça o app da Radio Verde Vale',
-        linkUrl: 'https://play.google.com/',
+        linkUrl: 'https://apps.apple.com/br/app/radio-verde-vale-fm/id1526290059',
         chooserTitle: ' ');
   }
 
